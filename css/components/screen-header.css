@@ -14,7 +14,7 @@
 }
 
 @keyframes rotateCog {
-  form {
+  from {
     transform: none;
   }
   to {
