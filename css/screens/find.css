@@ -18,19 +18,7 @@
   color: var(--grey-text);
 }
 
-.screen-header__icons {
-  position: relative;
-}
 
-.screen-header__icons-reddot {
-  border: 3px solid tomato;
-  border-radius: 50%;
-  position: absolute;
-  justify-content: center;
-  align-items: center;
-  right: -4px;
-  top: -9px;
-}
 
 .open-chat__header {
   display: flex;
